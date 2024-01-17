@@ -18,13 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Jordons Portfolio Site
+email: hello@jordon.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Welcome to my photography portfolio, where every image tells a unique story. I am a passionate photographer dedicated to capturing the beauty of the world through my lens. With a keen eye for detail and a love for the art of visual storytelling, I aim to evoke emotions and create lasting memories through my photographs.
+  My portfolio showcases a diverse collection of moments frozen in time. From breathtaking landscapes to candid portraits, each image reflects my dedication to capturing the essence of the world around us. Whether it's the vibrant colors of a sunset, the intricate details of a cityscape, or the genuine expressions of people, I strive to convey the beauty and emotions that lie within every frame.
+  Exploring the world with my camera has allowed me to discover the extraordinary in the ordinary, and I'm thrilled to share these moments with you. I believe that photography has the power to inspire, connect, and transcend boundaries. Through my work, I hope to take you on a visual journey and spark your own sense of wonder and curiosity.
+  Thank you for visiting my portfolio. Feel free to explore the galleries and immerse yourself in the world of photography. If you have any questions, inquiries, or would like to collaborate, please don't hesitate to reach out. Your feedback and support mean the world to me, and I look forward to sharing more captivating moments with you.
+baseurl: "/test-portfolio/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
